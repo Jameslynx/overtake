@@ -5,7 +5,7 @@ python 2d car game
   clone the repository.
   #
   on your terminal
-  # $pip install pygame
+  # $pip3 install pygame
   # $cd overtake
   # $python overtake.py
 Thats it have fun.
