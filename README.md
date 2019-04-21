@@ -6,5 +6,6 @@ python 2d car game
   #
   on your terminal
   # $pip install pygame
+  # $cd overtake
   # $python overtake.py
 Thats it have fun.
